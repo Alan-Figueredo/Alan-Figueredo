@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alan-Figueredo
-- 👀 I’m a web developer working with MERN stack
-- 🌱 I’m currently learning Typescript
+- 👀 I’m a web developer working with React.js on the front and C# on the backend.
+- 🌱 I’m currently learning React native.
 - 💞️ I’m looking to collaborate on a proyect in a company.
 - 📫 How to reach me: 
 - Mail: afigueredo2000@gmail.com
